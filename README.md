@@ -29,7 +29,7 @@ My main focus is **backend development**, especially building APIs, designing da
 * MongoDB
 * PostgreSQL
 * MySQL
-* SQL
+
 
 ---
 
