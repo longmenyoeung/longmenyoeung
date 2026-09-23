@@ -12,14 +12,6 @@ I'm passionate about building web applications and backend systems, especially *
 * **Databases:** MongoDB, MySQL
 * **Tools:** Git, GitHub, Postman, Swagger
 
-### 🚀 Currently Learning
-
-* Java
-* Spring Boot
-* Advanced backend development
-* API security and best practices
-* Database design and relationships
-
 ### 🛠️ What I Enjoy Building
 
 I enjoy creating practical backend projects such as:
