@@ -1,29 +1,35 @@
 ## 👋 About Me
 
-Hi, I'm **Long Menyoeung**, a Management Information Systems (MIS) student and aspiring **Backend Developer** from Cambodia.
+Hi, I'm **Long Menyoeung**, a Management Information Systems (MIS) student from Cambodia with a strong interest in **Backend Development**.
 
-I'm passionate about building web applications and backend systems, especially **RESTful APIs, databases, authentication, and server-side development**.
+I enjoy building web applications and developing secure, reliable backend systems. I have experience working with RESTful APIs, database management, authentication, authorization, and server-side development.
 
-### 💻 What I Work With
+### 💻 Tech Stack
 
-* **Languages:** JavaScript, PHP
-* **Backend:** Node.js, Express.js, Laravel
-* **Frontend:** React.js
-* **Databases:** MongoDB, MySQL
-* **Tools:** Git, GitHub, Postman, Swagger
+- **Languages:** JavaScript, PHP, Java (Learning)
+- **Backend:** Node.js, Express.js, Laravel, Spring Boot (Learning)
+- **Frontend:** React.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Postman, Swagger
 
-### 🛠️ What I Enjoy Building
+### 🛠️ What I Build
 
-I enjoy creating practical backend projects such as:
+- RESTful API development
+- Authentication and Authorization systems
+- E-commerce and product management systems
+- Task and management applications
+- Database design and integration
+- API documentation and testing
 
-* RESTful APIs
-* Authentication & Authorization systems
-* Task management systems
-* E-commerce APIs
-* Database-driven applications
+### 📚 Currently Learning
 
-I'm continuously learning, building projects, and improving my problem-solving and software development skills.
+- Java and Spring Boot
+- Backend architecture and best practices
+- Database design and optimization
+- Writing clean, maintainable, and secure code
 
-### 🎯 Goal
+### 🎯 My Goal
 
-My goal is to become a professional **Backend Developer** and build reliable, secure, and scalable applications while continuously improving my technical skills.
+My goal is to become a professional **Backend Developer** who can design and build secure, reliable, and scalable applications. I believe in learning through real-world projects, solving problems, and continuously improving my development skills.
+
+I'm always open to learning new technologies, collaborating with other developers, and taking on new challenges.
