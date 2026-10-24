@@ -9,7 +9,7 @@ I enjoy building web applications and developing secure, reliable backend system
 - **Languages:** JavaScript, PHP, Java (Learning)
 - **Backend:** Node.js, Express.js, Laravel, Spring Boot (Learning)
 - **Frontend:** React.js
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, ORACLE ,MongoDB
 - **Tools:** Git, GitHub, Postman, Swagger
 
 ### 🛠️ What I Build
