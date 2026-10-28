@@ -16,14 +16,15 @@ I enjoy building web applications and developing secure, reliable backend system
 
 - RESTful API development
 - Authentication and Authorization systems
-- E-commerce and product management systems
+- E-commerce Website
 - Task and management applications
 - Database design and integration
 - API documentation and testing
+- Others
 
 ### 📚 Currently Learning
 
-- Java and Spring Boot
+- Java
 - Backend architecture and best practices
 - Database design and optimization
 - Writing clean, maintainable, and secure code
