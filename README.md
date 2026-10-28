@@ -7,7 +7,7 @@ I enjoy building web applications and developing secure, reliable backend system
 ### 💻 Tech Stack
 
 - **Languages:** JavaScript, PHP, Java (Learning)
-- **Backend:** Node.js, Express.js, Laravel, Spring Boot (Learning)
+- **Backend:** Node.js, Express.js, Laravel
 - **Frontend:** React.js
 - **Databases:** MySQL, ORACLE ,MongoDB
 - **Tools:** Git, GitHub, Postman, Swagger
